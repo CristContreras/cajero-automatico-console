@@ -5,13 +5,13 @@ Se trata de una aplicación de consola que simula las funciones básicas de un c
 
 🚀 Funcionalidades
 
-    ✅ Consultar saldo
+✅ Consultar saldo
 
-    ✅ Realizar depósitos
+✅ Realizar depósitos
 
-    ✅ Retirar dinero
+✅ Retirar dinero
 
-    ✅ Salir del sistema
+✅ Salir del sistema
 
 🛠️ Tecnologías utilizadas
 
