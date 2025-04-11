@@ -5,25 +5,24 @@ Se trata de una aplicación de consola que simula las funciones básicas de un c
 
 🚀 Funcionalidades
 
-✅ Consultar saldo
+    ✅ Consultar saldo
 
-✅ Realizar depósitos
+    ✅ Realizar depósitos
 
-✅ Retirar dinero
+    ✅ Retirar dinero
 
-✅ Salir del sistema
+    ✅ Salir del sistema
 
 🛠️ Tecnologías utilizadas
+
 Lenguaje: Java
 
 IDE: IntelliJ IDEA
 
 Entorno: Aplicación de consola
 
-📸 Capturas
-Menú principal	Operaciones
-
 📚 Aprendizajes
+
 Organización del código usando métodos
 
 Uso de estructuras de control como switch, if, while
