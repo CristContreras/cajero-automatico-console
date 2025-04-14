@@ -1,10 +1,7 @@
 💻 Proyecto: Cajero Automático en Java
-
-Este proyecto fue desarrollado como trabajo final del curso "Java: Creando tu primera aplicación" de Alura Latam.
-Se trata de una aplicación de consola que simula las funciones básicas de un cajero automático, utilizando datos predefinidos de un cliente bancario.
+Este proyecto fue realizado como parte del curso "Java: Creando tu primera aplicación" de Alura Latam. Se trata de una aplicación de consola que simula las funciones básicas de un cajero automático, utilizando datos predefinidos de un cliente bancario.
 
 🚀 Funcionalidades
-
 ✅ Consultar saldo
 
 ✅ Realizar depósitos
@@ -14,7 +11,6 @@ Se trata de una aplicación de consola que simula las funciones básicas de un c
 ✅ Salir del sistema
 
 🛠️ Tecnologías utilizadas
-
 Lenguaje: Java
 
 IDE: IntelliJ IDEA
@@ -22,9 +18,16 @@ IDE: IntelliJ IDEA
 Entorno: Aplicación de consola
 
 📚 Aprendizajes
+Organización del código utilizando métodos
 
-Organización del código usando métodos
+Uso de estructuras de control como switch, if, y while
 
-Uso de estructuras de control como switch, if, while
+Aplicación de buenas prácticas en la codificación de aplicaciones en consola
 
-Buenas prácticas en la codificación de aplicaciones en consola
+👨‍💻 Instrucciones de ejecución
+Clona este repositorio:
+git clone https://github.com/tu-usuario/cajero-automatico-console.git
+
+Abre el proyecto en tu IDE preferido (como IntelliJ IDEA).
+
+Ejecuta el archivo Main.java para probar el funcionamiento del cajero automático.
