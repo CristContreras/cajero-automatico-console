@@ -1,6 +1,7 @@
 💻 Proyecto: Cajero Automático en Java
 
 Este proyecto fue realizado como parte del curso "Java: Creando tu primera aplicación" de Alura Latam. Se trata de una aplicación de consola que simula las funciones básicas de un cajero automático, utilizando datos predefinidos de un cliente bancario.
+__________________________________________________________________________________________________________________________________________________________________________________________
 
 🚀 Funcionalidades
 
